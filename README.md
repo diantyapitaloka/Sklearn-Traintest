@@ -32,6 +32,7 @@ When we print the length of x_test, we can see that the length of the test set a
 - print(len(y_test))
 
 ## Output
+The following is the output of the code as shown below.
 - 150
 - 120
 - 30
