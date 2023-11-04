@@ -1,4 +1,4 @@
-# Sklearn-Traintest
+# Train Test
 Split the dataset using the Train Test Split function from the SKLearn library.
 
 - import sklearn
