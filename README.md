@@ -7,7 +7,7 @@ Split the dataset using the Train Test Split function from the SKLearn library.
 # Load Iris Dataset
 The sklearn library provides the iris dataset, which is a dataset that is commonly used for classification problems. This dataset has 150 samples.
 
-iris = datasets.load_iris()
+- iris = datasets.load_iris()
 
 # Separate Attributes and Labels on Dataset Slices
 The iris dataset from the Sklearn library cannot be directly used by an ML model. In accordance with what was discussed in the previous module, we must separate attributes and labels in the dataset.
